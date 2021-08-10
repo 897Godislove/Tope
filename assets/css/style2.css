@@ -1,0 +1,103 @@
+.footer1 {
+  background-color: #161f37 !important;
+  display: flex;
+  justify-content: space-around;
+  padding: 100px 50px 80px 70px;
+}
+
+
+.fdiv1 {
+  width: 40%;
+  padding: 0 15px;
+}
+
+.text {
+  color: #b6c1cd;
+  margin: 15px 0 15px;
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.footerLogoLinks {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 10px 0 0 0;
+  /* display: flex; */
+}
+
+.fLogoLink {
+  padding-right: 15px;
+  line-height: 22px;
+}
+
+
+.fdiv2 {
+  width: 25%;
+  padding: 0 15px;
+}
+
+.footerheadings {
+  color: #ffffff;
+  margin: 0 0 35px;
+  font-size: 18px;
+}
+
+.sendEmail {
+  display: flex;
+}
+
+input[type='email'] {
+  background-color: #19294b;
+  border: none;
+  padding: 12px 15px 12px 15px;
+}
+
+.emailinput {
+  outline: none;
+  /* outline-color: #3b60c9 !important; */
+  color: #ffffff;
+}
+
+.emailogo {
+  padding: 10px 20px;
+  background-color: #3b60c9;
+}
+
+
+.fdiv3 {
+  width: 30%;
+  padding: 0 15px;
+}
+
+.usefullinks {
+  display: flex;
+}
+
+.angle {
+  margin-right: 8px;
+}
+
+.usefullink {
+  padding-right: 10px;
+  font-size: 11.5px;
+  line-height: 28px;
+}
+
+.usefullink a:hover {
+  color: #3b60c9 !important;
+}
+
+
+.fdiv4 {
+  width: 15%;
+  padding: 0 15px;
+}
+
+
+.footer2 {
+  background-color: #3b60c9;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+  font-size: small;
+}

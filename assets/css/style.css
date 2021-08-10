@@ -1,0 +1,136 @@
+
+* {
+  margin: 0px;
+  font-family: Optima, sans-serif, Arial, Helvetica;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+body {
+  background-color: #e9e9e9;
+}
+
+.header1 {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  background-color: #161f37;
+  padding: 0 35px;
+
+}
+.header2{
+  background-color: #ffffff;
+  padding: 10px 0 10px 50px;
+  /* position: fixed;
+  top: 0px;
+  width: 100%;
+  margin-top: 50px; */
+}
+
+.backgroundLogo{
+  border: 2px solid red;
+  border-bottom-right-radius: 95%;
+  border-top-left-radius: 40%;
+  width: 115px;
+  height: 60px;
+  padding: 3px;
+}
+.logo {
+  transform: skew(-15deg, -15deg);
+  color: #161f37;
+  font-weight: 700;
+}
+
+.logo1 {
+  font-size: 1.8rem;
+}
+
+.logo1 span {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  color: #3b60c9;
+}
+.logoF{
+  color: #3b60c9;
+}
+.logo1F{
+  color:#ffffff !important;
+}
+.logo2F{
+  color:#ffffff !important;
+}
+.logo2 {
+  font-size: .4rem;
+  letter-spacing: 2.8px;
+  color: #161f37;
+}
+
+.Htext {
+  display: flex;
+  font-size: 12px;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.email {
+  padding-right: 20px;
+}
+
+.email span {
+  font-weight: 600;
+}
+
+.hotline {
+  padding-left: 20px;
+}
+
+.hotline span{
+  font-weight: 600;
+}
+
+.Hbuttons {
+  display: flex;
+}
+
+.Hbutton {
+  padding: 15px 35px;
+  margin: 0px 4px;
+  border: none;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  /* border-radius: 3px; */
+  color:rgb(255, 255, 255)
+}
+.Hbutton:hover{
+  box-sizing: border-box;
+  padding: 13px 35px;
+  color: rgb(245, 215, 215);
+}
+.sign{
+  background-color: #3b60c9;
+}
+.login{
+  background-color: #1dd983;
+}
+/* .Mimage {
+  height: 50vh;
+  width: 100%;
+  background: url("images\Howard University And Other HBCUs Offer Free COVID-19 Testing.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  /* background: rgba(0, 0, 0, 0.5); */
+  /* color: rgb(255, 255, 255); */
+  /* text-align: center; */
+  /* padding: 50px;
+}  */
+
